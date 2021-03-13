@@ -19,7 +19,7 @@ function jump() {
         $("#player").addClass("jump");
         setTimeout(function () {
             $("#player").removeClass("jump");
-        }, 700);
+        }, 500);
     }
 }
 

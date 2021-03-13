@@ -39,7 +39,7 @@ h2 {
 /* game frame */
 
 #game-border {
-    border: solid black 4px;
+    border: solid black 1px;
     border-left: none;
     border-right: none;
     height: 30vw;
@@ -58,7 +58,7 @@ h2 {
 }
 
 .jump {
-    animation: jump 700ms;
+    animation: jump 500ms;
 }
 
 @keyframes jump {
