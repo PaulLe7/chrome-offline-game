@@ -8,7 +8,7 @@
 
 h1 {
     position: absolute;
-    top: 25vw;
+    top: 5vw;
     left: 25vw;
     width: 50vw;
     text-align: center;
@@ -44,7 +44,7 @@ h2 {
     border-right: none;
     height: 30vw;
     position: absolute;
-    top: 35vw;
+    top: 15vw;
     width: 100vw;
 }
 
